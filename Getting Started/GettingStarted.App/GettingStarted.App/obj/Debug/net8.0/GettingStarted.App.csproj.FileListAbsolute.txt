@@ -1,0 +1,14 @@
+C:\Users\USER\source\repos\GettingStarted.App\GettingStarted.App\bin\Debug\net8.0\GettingStarted.App.exe
+C:\Users\USER\source\repos\GettingStarted.App\GettingStarted.App\bin\Debug\net8.0\GettingStarted.App.deps.json
+C:\Users\USER\source\repos\GettingStarted.App\GettingStarted.App\bin\Debug\net8.0\GettingStarted.App.runtimeconfig.json
+C:\Users\USER\source\repos\GettingStarted.App\GettingStarted.App\bin\Debug\net8.0\GettingStarted.App.dll
+C:\Users\USER\source\repos\GettingStarted.App\GettingStarted.App\bin\Debug\net8.0\GettingStarted.App.pdb
+C:\Users\USER\source\repos\GettingStarted.App\GettingStarted.App\obj\Debug\net8.0\GettingStarted.App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\GettingStarted.App\GettingStarted.App\obj\Debug\net8.0\GettingStarted.App.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\GettingStarted.App\GettingStarted.App\obj\Debug\net8.0\GettingStarted.App.AssemblyInfo.cs
+C:\Users\USER\source\repos\GettingStarted.App\GettingStarted.App\obj\Debug\net8.0\GettingStarted.App.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\GettingStarted.App\GettingStarted.App\obj\Debug\net8.0\GettingStarted.App.dll
+C:\Users\USER\source\repos\GettingStarted.App\GettingStarted.App\obj\Debug\net8.0\refint\GettingStarted.App.dll
+C:\Users\USER\source\repos\GettingStarted.App\GettingStarted.App\obj\Debug\net8.0\GettingStarted.App.pdb
+C:\Users\USER\source\repos\GettingStarted.App\GettingStarted.App\obj\Debug\net8.0\GettingStarted.App.genruntimeconfig.cache
+C:\Users\USER\source\repos\GettingStarted.App\GettingStarted.App\obj\Debug\net8.0\ref\GettingStarted.App.dll
